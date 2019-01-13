@@ -1,3 +1,4 @@
 print('Hola git :)')
 nombre = input('Como te llamas?')
-print('Bienvenido, nombre')
+print('Bienvenid@', nombre)
+print('Espero que te guste Git')
